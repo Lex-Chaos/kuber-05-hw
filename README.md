@@ -115,7 +115,7 @@ spec:
   
 Вывод доступа к приложениям:
 
-![curl](https://github.com/Lex-Chaos/kuber-05-hw/blob/main/img/Test1.png):
+![curl](https://github.com/Lex-Chaos/kuber-05-hw/blob/main/img/Task1.png):
 
   ------
 ### Задание 2. Создать Ingress и обеспечить доступ к приложениям снаружи кластера
@@ -159,11 +159,11 @@ spec:
 
 Включил ingress:
 
-![ingress](https://github.com/Lex-Chaos/kuber-05-hw/blob/main/img/Test2-1.png)
+![ingress](https://github.com/Lex-Chaos/kuber-05-hw/blob/main/img/Task2-1.png)
 
 Вывод доступа через браузер:
 
-![browser](https://github.com/Lex-Chaos/kuber-05-hw/blob/main/img/Test2-2.png)
+![browser](https://github.com/Lex-Chaos/kuber-05-hw/blob/main/img/Task2-2.png)
 
 ------
 ### Правила приема работы
